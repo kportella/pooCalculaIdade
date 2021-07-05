@@ -1,0 +1,11 @@
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.exe
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.deps.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.runtimeconfig.dev.json
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\bin\Debug\netcoreapp3.1\pooCalculaIdade.pdb
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.csprojAssemblyReference.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfoInputs.cache
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.AssemblyInfo.cs
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.dll
+C:\Users\kaue\OneDrive - Bem Promotora de Vendas e Servicos SA\Documentos\Programação Orientada a Objetos utilizando a linguagem C#\pooCalculaIdade\obj\Debug\netcoreapp3.1\pooCalculaIdade.pdb
